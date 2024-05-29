@@ -1,2 +1,4 @@
 armas_fortnite = ['corredera', 'pump', 'subfusil', 'fusil de cazador']
 print(armas_fortnite)
+time.sleep(2)
+print("XDDDDDD")
